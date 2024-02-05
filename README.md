@@ -1,6 +1,6 @@
 # Dhurgham Fahem
 
-## 🚀 Senior .NET Developer | Entrepreneur | Tech Enthusiast
+## 🚀 Senior .NET Developer | Tech Enthusiast
 
 ### 📞 Contact
 
