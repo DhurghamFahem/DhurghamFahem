@@ -8,7 +8,7 @@
 - **LinkedIn:** [linkedin.com/in/dhurgham-fahem](https://www.linkedin.com/in/dhurgham-fahem)
 - **Email:** [drm.fhm@gmail.com](mailto:drm.fhm@gmail.com)
 
-## 💼 Professional Summary
+## 💼 Summary
 
 Seasoned Senior .NET Developer with a strong passion for entrepreneurship and tech innovation. Proven track record in app development and a solid foundation in problem-solving. Committed to making a positive impact through the creation of cutting-edge software solutions.
 
