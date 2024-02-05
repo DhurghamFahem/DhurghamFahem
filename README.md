@@ -63,7 +63,7 @@ Seasoned Senior .NET Developer with a strong passion for entrepreneurship and te
 - **Architectures:** Microservices, Monolithic apps
 - **Message Brokers:** RabbitMQ, Kafka
 - **Mobile Development:** Flutter, Microsoft MAUI
-- **Cloud Platforms:** Microsoft Azure
+- **Cloud Platforms:** Microsoft Azure, AWS
 - **Other:** JWT, Token Authentication, JSON, Entity Framework
 
 ## 🌐 General Skills
