@@ -56,13 +56,13 @@ Seasoned Senior .NET Developer with a strong passion for entrepreneurship and te
 ## 🛠️ Technical Skills
 
 - **Languages:** C#, Go, SQL, NoSQL, Dart, HTML, CSS
-- **Frameworks:** ASP.NET Web API, Flutter, Microsoft MAUI
+- **Frameworks:** ASP.NET Web API, Flutter, Microsoft MAUI, React
 - **Databases:** SQL databases, NoSQL databases, Redis
 - **Development Tools:** Git, Docker
 - **Testing:** Unit testing, Functional testing
 - **Architectures:** Microservices, Monolithic apps
 - **Message Brokers:** RabbitMQ, Kafka
-- **Mobile Development:** Flutter, Microsoft MAUI
+- **Mobile Development:** Flutter, Microsoft MAUI, React Native
 - **Cloud Platforms:** Microsoft Azure, AWS
 - **Other:** JWT, Token Authentication, JSON, Entity Framework
 
