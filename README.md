@@ -7,6 +7,7 @@
 - **Phone:** +964-782-396-3212
 - **LinkedIn:** [linkedin.com/in/dhurgham-fahem](https://www.linkedin.com/in/dhurgham-fahem)
 - **Email:** [drm.fhm@gmail.com](mailto:drm.fhm@gmail.com)
+- **Location:** Al-Najaf, Iraq
 
 ## 💼 Summary
 
@@ -40,32 +41,105 @@ I'm a fullstack developer with a knack for both building apps and solving proble
 
 ## 🚀 Projects and Links
 
-- Full Stack [Morabaa](https://morabaa.com/MorabaaSetup-2020-5.rar)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaa.mymorabaa)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.ameerewath)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.daleel)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.drzena)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.prestige)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.alnasim)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.maybellin)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.faw)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.iraqsteel)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.bluebird)
-- Back-End [Apps on Google Play](https://play.google.com/store/apps/details?id=com.morabaastore.daytoday)
+- **Full Stack:** [Morabaa](https://morabaa.com/MorabaaSetup-2020-5.rar)
+- **Back-End Apps on Google Play:**
+  - [Morabaa](https://play.google.com/store/apps/details?id=com.morabaa.mymorabaa)
+  - [Ameerwath](https://play.google.com/store/apps/details?id=com.morabaastore.ameerewath)
+  - [Daleel](https://play.google.com/store/apps/details?id=com.morabaastore.daleel)
+  - [DrZena](https://play.google.com/store/apps/details?id=com.morabaastore.drzena)
+  - [Prestige](https://play.google.com/store/apps/details?id=com.morabaastore.prestige)
+  - [AlNasim](https://play.google.com/store/apps/details?id=com.morabaastore.alnasim)
+  - [Maybellin](https://play.google.com/store/apps/details?id=com.morabaastore.maybellin)
+  - [FAW](https://play.google.com/store/apps/details?id=com.morabaastore.faw)
+  - [IraqSteel](https://play.google.com/store/apps/details?id=com.morabaastore.iraqsteel)
+  - [Bluebird](https://play.google.com/store/apps/details?id=com.morabaastore.bluebird)
+  - [DayToday](https://play.google.com/store/apps/details?id=com.morabaastore.daytoday)
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C#, Go, SQL, NoSQL, Dart, HTML, CSS, JavaScript, TypeScript, Python, Kotlin
-- **Frameworks:** ASP.NET Web API, Flutter, Microsoft MAUI, React, Next.js, Node.js
-- **Databases:** SQL databases, NoSQL databases, Redis, PostgreSQL, SQLServer, MongoDB
-- **Development Tools:** Git, Docker, Kubernetes, Jenkins, Visual Studio, VS Code, Vim, Tmux
-- **Testing:** Unit testing, Functional testing, Integration testing, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
-- **Architectures:** Microservices, Monolithic apps, Serverless
-- **Message Brokers:** RabbitMQ, Kafka, Apache ActiveMQ
-- **Mobile Development:** Flutter, Microsoft MAUI, React Native
-- **Cloud Platforms:** Microsoft Azure, AWS, Google Cloud Platform (GCP)
-- **Version Control:** Git, GitHub, GitLab, Bitbucket
-- **Other:** JWT, Token Authentication, JSON, Entity Framework, RESTful APIs, GraphQL, OAuth, WebSockets, CI/CD, Agile
+### Languages
+- C#
+- Go
+- SQL
+- NoSQL
+- Dart
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Python
+- Kotlin
+
+### Frameworks
+- ASP.NET Web API
+- Flutter
+- Microsoft MAUI
+- React
+- Next.js
+- Node.js
+
+### Databases
+- SQL databases
+- NoSQL databases
+- Redis
+- PostgreSQL
+- SQLServer
+- MongoDB
+
+### Development Tools
+- Git
+- Docker
+- Kubernetes
+- Jenkins
+- Visual Studio
+- VS Code
+- Vim
+- Tmux
+
+### Testing
+- Unit testing
+- Functional testing
+- Integration testing
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+
+### Architectures
+- Microservices
+- Monolithic apps
+- Serverless
+
+### Message Brokers
+- RabbitMQ
+- Kafka
+- Apache ActiveMQ
+
+### Mobile Development
+- Flutter
+- Microsoft MAUI
+- React Native
+
+### Cloud Platforms
+- Microsoft Azure
+- AWS
+- Google Cloud Platform (GCP)
+
+### Version Control
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+
+### Other
+- JWT
+- Token Authentication
+- JSON
+- Entity Framework
+- RESTful APIs
+- GraphQL
+- OAuth
+- WebSockets
+- CI/CD
+- Agile
 
 ## 🌐 General Skills
 
@@ -93,8 +167,6 @@ I'm a fullstack developer with a knack for both building apps and solving proble
 
 ## 🌐 Languages
 
-### Arabic (Native)
-
-### English (Fluent)
-
-### Deutsch (B1)
+- **Arabic:** Native
+- **English:** Fluent
+- **German (Deutsch):** B1
