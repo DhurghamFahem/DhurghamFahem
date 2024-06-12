@@ -19,9 +19,9 @@ I'm a fullstack developer with a knack for both building apps and solving proble
 *University of Kufa, 09/2013 – 07/2017*
 
 *Statement of Compatibility with German Bachelor's Degree*  
-*Date of Issue: [Insert Date]*
+*Date of Issue: 29/05/2024*
 
-The statement of compatibility confirms that my Bachelor's degree from the University of Kufa is recognized as equivalent to a German Bachelor's degree in Electronics & Communication Engineering.
+This statement certifies that my Bachelor's degree in Electronics & Communication Engineering from the University of Kufa has been assessed and recognized as equivalent to a Bachelor of Science degree by the Zentralstelle für ausländisches Bildungswesen (ZAB).
 
 ## 💻 Work Experience
 
