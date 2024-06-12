@@ -1,6 +1,6 @@
 # Dhurgham Fahem
 
-## 🚀 Senior .NET Developer | Tech Enthusiast
+## 🚀 Fullstack Developer
 
 ### 📞 Contact
 
@@ -10,7 +10,7 @@
 
 ## 💼 Summary
 
-Seasoned Senior .NET Developer with a strong passion for entrepreneurship and tech innovation. Proven track record in app development and a solid foundation in problem-solving. Committed to making a positive impact through the creation of cutting-edge software solutions.
+I'm a fullstack developer with a knack for both building apps and solving problems. I have a deep passion for entrepreneurship and tech innovation. Over the years, I've worked on a variety of projects that showcase my skills and dedication. I'm all about using technology to create positive change, and I'm always looking for new challenges and opportunities to make an impact with my work.
 
 ## 🎓 Education
 
@@ -55,16 +55,17 @@ Seasoned Senior .NET Developer with a strong passion for entrepreneurship and te
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C#, Go, SQL, NoSQL, Dart, HTML, CSS
-- **Frameworks:** ASP.NET Web API, Flutter, Microsoft MAUI, React
-- **Databases:** SQL databases, NoSQL databases, Redis
-- **Development Tools:** Git, Docker
-- **Testing:** Unit testing, Functional testing
-- **Architectures:** Microservices, Monolithic apps
-- **Message Brokers:** RabbitMQ, Kafka
+- **Languages:** C#, Go, SQL, NoSQL, Dart, HTML, CSS, JavaScript, TypeScript, Python, Kotlin
+- **Frameworks:** ASP.NET Web API, Flutter, Microsoft MAUI, React, Next.js, Node.js
+- **Databases:** SQL databases, NoSQL databases, Redis, PostgreSQL, SQLServer, MongoDB
+- **Development Tools:** Git, Docker, Kubernetes, Jenkins, Visual Studio, VS Code, Vim, Tmux
+- **Testing:** Unit testing, Functional testing, Integration testing, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
+- **Architectures:** Microservices, Monolithic apps, Serverless
+- **Message Brokers:** RabbitMQ, Kafka, Apache ActiveMQ
 - **Mobile Development:** Flutter, Microsoft MAUI, React Native
-- **Cloud Platforms:** Microsoft Azure, AWS
-- **Other:** JWT, Token Authentication, JSON, Entity Framework
+- **Cloud Platforms:** Microsoft Azure, AWS, Google Cloud Platform (GCP)
+- **Version Control:** Git, GitHub, GitLab, Bitbucket
+- **Other:** JWT, Token Authentication, JSON, Entity Framework, RESTful APIs, GraphQL, OAuth, WebSockets, CI/CD, Agile
 
 ## 🌐 General Skills
 
@@ -73,6 +74,22 @@ Seasoned Senior .NET Developer with a strong passion for entrepreneurship and te
 - Team collaboration
 - Communication
 - Project management
+- Time management
+- Adaptability
+- Critical thinking
+- Conflict resolution
+- Decision-making
+- Creative thinking
+- Analytical skills
+- Client relations
+- Mentorship and coaching
+- Strategic planning
+- Cross-functional team coordination
+- Presentation skills
+- Technical documentation
+- Agile methodologies
+- Risk management
+- Continuous learning
 
 ## 🌐 Languages
 
@@ -80,4 +97,4 @@ Seasoned Senior .NET Developer with a strong passion for entrepreneurship and te
 
 ### English (Fluent)
 
-### Deutsch (A2)
+### Deutsch (B1)
