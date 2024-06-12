@@ -18,6 +18,11 @@ I'm a fullstack developer with a knack for both building apps and solving proble
 **BSc in Electronics & Communication Engineering**  
 *University of Kufa, 09/2013 – 07/2017*
 
+*Statement of Compatibility with German Bachelor's Degree*  
+*Date of Issue: [Insert Date]*
+
+The statement of compatibility confirms that my Bachelor's degree from the University of Kufa is recognized as equivalent to a German Bachelor's degree in Electronics & Communication Engineering.
+
 ## 💻 Work Experience
 
 ### Morabaa Software Solutions | Full Stack Developer  
