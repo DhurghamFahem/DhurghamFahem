@@ -135,16 +135,26 @@ This statement certifies that my Bachelor's degree in Electronics & Communicatio
 - Bitbucket
 
 ### Other
-- JWT
+- JWT (JSON Web Tokens)
 - Token Authentication
-- JSON
+- JSON (JavaScript Object Notation)
 - Entity Framework
 - RESTful APIs
 - GraphQL
-- OAuth
+- OAuth (Open Authorization)
 - WebSockets
-- CI/CD
-- Agile
+- CI/CD (Continuous Integration/Continuous Deployment)
+- Agile Methodologies
+- Microservices Architecture
+- DevOps Practices
+- Design Patterns
+- Performance Optimization Techniques
+- Security Best Practices
+- Scalability Strategies
+- Monitoring and Logging Tools
+- Database Optimization and Tuning
+- Code Review and Refactoring
+- Project Estimation and Planning
 
 ## 🌐 General Skills
 
